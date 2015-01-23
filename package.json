@@ -1,0 +1,27 @@
+{
+  "name": "express-routing-mapper",
+  "version": "0.0.1",
+  "description": "An Express complement to use a routing DSL like Rails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "routing",
+    "resource",
+    "controller"
+  ],
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "underscore.string": "^2.4.0"
+  },
+  "devDependencies": {
+    "async": "^0.9.0",
+    "chai": "^1.10.0",
+    "express": "4.x.x",
+    "supertest": "^0.15.0"
+  },
+  "author": "Briam Santiago <me@bmsantiago.com> (http://github.com/donperi)",
+  "license": "MIT"
+}
